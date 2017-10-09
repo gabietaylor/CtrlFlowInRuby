@@ -65,3 +65,18 @@ y = 3
 if x != y
   puts "x and y are equal to each other!"
 end
+
+test_1 = 17 > 16
+puts test_1
+
+test_2 = 21 < 30
+puts test_2
+
+test_3 = 9 >= 9
+puts test_3
+
+test_4 = -11 < 4
+puts test_4
+
+test_5 = 9 <= 9
+puts test_5
