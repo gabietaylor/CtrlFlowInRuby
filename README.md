@@ -23,3 +23,11 @@
 #### In Ruby, we assign values to variables using `=`, the assignment operator. But if we've already used `=` for assignment, how do we check to see if two things are equal? Well, we use `==`, which is a comparator (also called a relational operator). `==` means "is equal to."
 
 * You can also check to see if two values are not equal using the `!=` comparator.
+
+# Less Than or Greater Than
+#### More operators:
+
+* Less than: `<`
+* Less than or equal to: `<=`
+* Greater than: `>`
+* Greater than or equal to: `>=`
