@@ -139,3 +139,15 @@ end
 
 hurt = false
 puts "I'm okay" unless hurt
+
+# false
+test_1 = 8 > 45
+puts test_1
+
+# false
+test_2 = 8 == 19
+puts test_2
+
+# true
+test_3 = 3 >= 3 
+puts test_3
