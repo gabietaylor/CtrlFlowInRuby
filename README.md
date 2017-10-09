@@ -33,11 +33,14 @@
 * Greater than or equal to: `>=`
 
 # And
-#### Ruby has three logical or boolean operators: and (&&), or (||), and not (!). Boolean operators result in boolean values: true or false.
+#### Ruby has three logical or boolean operators: and (`&&`), or (`||`), and not (`!`). Boolean operators result in boolean values: `true` or `false`.
 
-#### The boolean operator and, &&, only results in true when both expression on either side of && are true. Here's how && works:
+#### The boolean operator and, `&&`, only results in `true` when both expression on either side of && are `true`.
 
 * true && true # => true
 * true && false # => false
 * false && true # => false
 * false && false # => false
+
+# Or
+#### Ruby also has the or operator (`||`). Ruby's `||` is called an inclusive or because it evaluates to `true` when one or the other or both expressions are true.
