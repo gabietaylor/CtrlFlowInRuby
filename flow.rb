@@ -136,3 +136,6 @@ elsif user_num > 0
 else
   puts "You picked zero!"
 end
+
+hurt = false
+puts "I'm okay" unless hurt
