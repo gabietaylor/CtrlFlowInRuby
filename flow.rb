@@ -38,3 +38,18 @@ if 1 < 2
     puts "1 equals 1!"
   end
 
+tired = false
+
+unless tired
+    puts "let's run code and laps"
+else
+    puts "time to take nap"    
+end
+
+tired = true
+
+unless tired
+    puts "let's run code and laps"
+else
+    puts "time to take nap"    
+end
