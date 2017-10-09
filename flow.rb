@@ -104,3 +104,12 @@ puts boolean_2
 # boolean_3 = false
 boolean_3 = false || false
 puts boolean_3
+
+boolean_1 = !true
+puts boolean_1 #false
+
+boolean_2 = !true && !true
+puts boolean_2 #false
+
+boolean_3 = !(700 / 10 == 70)
+puts boolean_3 #false
