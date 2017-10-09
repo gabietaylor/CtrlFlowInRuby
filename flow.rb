@@ -151,3 +151,10 @@ puts test_2
 # true
 test_3 = 3 >= 3 
 puts test_3
+
+# true
+test_1 = ( 1 == 1 ) && ( 2 == 2 )
+# true
+test_2 = ( 1 == 2 ) || ( 2 == 2 )
+# false
+test_3 = !( false )
