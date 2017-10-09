@@ -80,3 +80,15 @@ puts test_4
 
 test_5 = 9 <= 9
 puts test_5
+
+# boolean_1 = false
+boolean_1 = 77 < 78 && 77 < 77
+puts boolean_1
+
+# boolean_2 = true
+boolean_2 = true && 100 >= 100
+puts boolean_2
+
+# boolean_3 = true
+boolean_3 = 2**3 == 8 && 3**2 == 9
+puts boolean_3
