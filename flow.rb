@@ -92,3 +92,15 @@ puts boolean_2
 # boolean_3 = true
 boolean_3 = 2**3 == 8 && 3**2 == 9
 puts boolean_3
+
+# boolean_1 = true
+boolean_1 = 2**3 != 3**2 || true
+puts boolean_1
+
+# boolean_2 = false
+boolean_2 = false || -10 > -9
+puts boolean_2
+
+# boolean_3 = false
+boolean_3 = false || false
+puts boolean_3
