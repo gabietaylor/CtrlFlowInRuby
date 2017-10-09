@@ -12,3 +12,6 @@
 
 # Else
 #### An `if`/`else` statement in Ruby: "If this expression is true, run this code block; otherwise, run the code after the `else` statement.
+
+# Elsif
+#### The `elsif` statement can add any number of alternatives to an `if`/`else` statement for more than two options.
