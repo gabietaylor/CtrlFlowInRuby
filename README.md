@@ -55,3 +55,6 @@
 
 * !true # => false
 * !false # => true
+
+# Combining Boolean Operators
+#### Combinations look like `(x && (y || w)) && z`. Use parentheses to control the order of evaluation. Expressions in parentheses are always evaluated before anything outside parentheses.
