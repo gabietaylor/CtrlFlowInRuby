@@ -113,3 +113,15 @@ puts boolean_2 #false
 
 boolean_3 = !(700 / 10 == 70)
 puts boolean_3 #false
+
+# true
+boolean_1 = (3 < 4 || false) && (false || true)
+puts boolean_1
+
+# false
+boolean_2 = !true && (!true || 100 != 5**2)
+puts boolean_2
+
+# true
+boolean_3 = true || !(true || false)
+puts boolean_3
