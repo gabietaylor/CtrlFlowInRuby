@@ -53,3 +53,15 @@ unless tired
 else
     puts "time to take nap"    
 end
+
+x = 2
+y = 2
+if x == y
+  puts "x and y are equal!"
+end
+
+x = 2
+y = 3
+if x != y
+  puts "x and y are equal to each other!"
+end
