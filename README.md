@@ -9,3 +9,6 @@
 #### Ruby doesn't care about whitespace (spaces and blank lines), so the indentation of the print statement isn't necessary. However, it's a convention that Rubyists (Ruby enthusiasts) follow, so it's good to get in the habit now. The block of code following an `if` should be indented two spaces.
 
 * When you're done with your `if`, you have to tell Ruby by typing `end`.
+
+# Else
+#### An `if`/`else` statement in Ruby: "If this expression is true, run this code block; otherwise, run the code after the `else` statement.
