@@ -15,3 +15,6 @@
 
 # Elsif
 #### The `elsif` statement can add any number of alternatives to an `if`/`else` statement for more than two options.
+
+# Unless
+#### Sometimes you want to use control flow to check if something is false, rather than if it's true. You could reverse your if/else, but Ruby allows an unless statement.
