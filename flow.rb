@@ -157,4 +157,4 @@ test_1 = ( 1 == 1 ) && ( 2 == 2 )
 # true
 test_2 = ( 1 == 2 ) || ( 2 == 2 )
 # false
-test_3 = !( false )
+test_3 = !( true )
